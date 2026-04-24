@@ -1,11 +1,10 @@
 # Telecom---User-Analysis
 
 # PHÂN TÍCH ĐỘNG LỰC CHUYỂN ĐỔI 4G - XÁC ĐỊNH NHÓM KHÁCH HÀNG TIỀM NĂNG CHO VIỆC ĐẨY MẠNH CHUYỂN ĐỔI 4G
-
-**## Đặt vấn đề: 
+## Đặt vấn đề: 
 Trong lĩnh vực viễn thông, việc khách hàng chuyển đổi sang 4g đóng một vai trò quan trọng, đây là bước đầu, là cơ sở trong phễu chuyển đổi khách hàng, giúp cải thiện trải nghiệm sử dụng dịch vụ, sử dụng data cũng như là là bước đầu cho các dịch vụ công nghệ số trong tương lai
 
-**## Giả định: 
+## Giả định: 
 Công ty mong muốn đội ngũ marketing có 1 chiến dịch tiếp cận khách hàng qua điện thoại để có thể tăng khả năng chuyển đổi người dùng thuê bao cũ hoặc đã đủ điều kiện để chuyển đổi. Với một budget có hạn, team marketing phải tìm ra giải pháp tối ưu về mặt cá nhân hóa cho mỗi thuê bao nhận tin. 
 
 ## Mục tiêu dự án
