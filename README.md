@@ -1,6 +1,6 @@
 # Telecom---User-Analysis
 
-# PHÂN TÍCH ĐỘNG LỰC CHUYỂN ĐỔI 4G - XÁC ĐỊNH NHÓM KHÁCH HÀNG TIỀM NĂNG CHO VIỆC ĐẨY MẠNH CHUYỂN ĐỔI 4G
+# PHÂN TÍCH ĐỘNG LỰC CHUYỂN ĐỔI 4G - XÁC ĐỊNH CHÂN DUNG KHÁCH HÀNG TIỀM NĂNG CHO VIỆC ĐẨY MẠNH CHUYỂN ĐỔI 4G
 ## Đặt vấn đề: 
 Trong lĩnh vực viễn thông, việc khách hàng chuyển đổi sang 4g đóng một vai trò quan trọng, đây là bước đầu, là cơ sở trong phễu chuyển đổi khách hàng, giúp cải thiện trải nghiệm sử dụng dịch vụ, sử dụng data cũng như là là bước đầu cho các dịch vụ công nghệ số trong tương lai
 
